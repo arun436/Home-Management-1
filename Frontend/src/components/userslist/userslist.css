@@ -1,0 +1,46 @@
+.button11{
+    position: absolute;
+margin-left: 50px;
+margin-top: -25px;
+border: none;
+background-color: dodgerblue;
+color: white;
+width: 40px;
+}
+.button12{
+    position: absolute;
+margin-left: 50px;
+margin-top: 3px;
+border: none;
+background-color: red;
+color: white;
+width: 40px;
+}
+#user_imagenew{
+    margin-top: -7px;
+    margin-left: -164px;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+#card-text{
+    margin-left: 2px;
+    margin-top: -42px;
+    font-weight: normal;
+    font-size: 12px;
+    width: 70px;
+}
+#user-email{
+    margin-left: -40px;
+    margin-top: -31px;
+    position: absolute;
+    font-size: 12px;
+}
+#edit-button{
+    margin-top: -8px;
+    margin-left: 80px;
+}
+#delete-button{
+    margin-top: 20px;
+    margin-left: 80px;
+}

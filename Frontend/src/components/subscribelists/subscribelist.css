@@ -1,0 +1,32 @@
+.button7{
+    position: absolute;
+margin-left: 50px;
+margin-top: -25px;
+border: none;
+background-color: dodgerblue;
+color: white;
+width: 40px;
+}
+.button8{
+    position: absolute;
+margin-left: 50px;
+margin-top: 3px;
+border: none;
+background-color: red;
+color: white;
+width: 40px;
+}
+.dot{
+    margin-left: -49px;
+     position: absolute;
+    height: 15px;
+    width: 16px;
+    background-color: green;
+    border-radius: 50%;
+    display: inline-block;
+}
+#nosubscription-text{
+        font-weight: bolder;
+        margin-top: 24px;
+        margin-left: -791px;
+}
